@@ -8,4 +8,7 @@ x=13;
 public void print(){ 
 system.out.println("java");
 } 
+public void print(){ 
+system.out.println("ghena change");
+} 
 }
